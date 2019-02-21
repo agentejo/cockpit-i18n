@@ -1,12 +1,9 @@
-<?php return array (
-  '@meta' => 
-  array (
+<?php return [
+  '@meta' => [
     'language' => 'Deutsch',
     'author' => 'Cockpit CLI',
-    'date' => 
-    array (
-      'shortdays' => 
-      array (
+    'date' => [
+      'shortdays' => [
         0 => 'Mo',
         1 => 'Di',
         2 => 'Mi',
@@ -14,9 +11,8 @@
         4 => 'Fr',
         5 => 'Sa',
         6 => 'So',
-      ),
-      'longdays' => 
-      array (
+      ],
+      'longdays' => [
         0 => 'Montag',
         1 => 'Dienstag',
         2 => 'Mittwoch',
@@ -24,9 +20,8 @@
         4 => 'Freitag',
         5 => 'Samstag',
         6 => 'Sonntag',
-      ),
-      'shortmonths' => 
-      array (
+      ],
+      'shortmonths' => [
         0 => 'Jan',
         1 => 'Feb',
         2 => 'Mär',
@@ -39,9 +34,8 @@
         9 => 'Oct',
         10 => 'Nov',
         11 => 'Dez',
-      ),
-      'longmonths' => 
-      array (
+      ],
+      'longmonths' => [
         0 => 'Januar',
         1 => 'Februar',
         2 => 'März',
@@ -54,11 +48,11 @@
         9 => 'Oktober',
         10 => 'November',
         11 => 'Dezember',
-      ),
-    ),
-  ),
-  'API Access' => 'API Zugriff',
-  'API Key' => 'API Schlüssel',
+      ],
+    ],
+  ],
+  'API Access' => 'API-Zugriff',
+  'API Key' => 'API-Schlüssel',
   'API-Key' => 'API-Schlüssel',
   'Access' => 'Zugriff',
   'Account' => 'Account',
@@ -95,7 +89,7 @@
   'Authenticate' => 'Anmelden',
   'Authenticate Please!' => 'Bitte anmelden!',
   'Back to Login' => 'Zurück zum Login',
-  'Back to entry' => 'Zurück zum Start',
+  'Back to entry' => 'Zurück zum Eintrag',
   'Back to singleton' => 'Zurück zu Singleton',
   'Back to start' => 'Zurück zum Start',
   'Batch' => 'Batch',
@@ -108,7 +102,7 @@
   'Change dir to root' => 'Change dir to root',
   'Changes' => 'Änderungen',
   'Choose' => 'Auswählen',
-  'Choose from template' => 'Wählen Sie von einer Vorlage',
+  'Choose from template' => 'Wählen Sie aus einer Vorlage',
   'Clear cache' => 'Cache löschen',
   'Clearing cache...' => 'Cache wird gelöscht...',
   'Close' => 'Schließen',
@@ -124,7 +118,7 @@
   'Components' => 'Komponenten',
   'Content Preview' => 'Inhalts-Preview',
   'Copied!' => 'Kopiert!',
-  'Copy Token' => 'Kopiere Token',
+  'Copy Token' => 'Token kopieren',
   'Copy content from:' => 'Kopiere Inhalt von:',
   'Create' => 'Erstellen',
   'Create Collection' => 'Collection erstellen',
@@ -145,8 +139,8 @@
   'Dashboard' => 'Dashboard',
   'Data saved' => 'Daten gespeichert',
   'Default' => 'Standard',
-  'Define collection fields' => 'Defineire Collection-Felder',
-  'Define singleton fields' => 'Defineire Singleton-Felder',
+  'Define collection fields' => 'Definiere Collection-Felder',
+  'Define singleton fields' => 'Definiere Singleton-Felder',
   'Delete' => 'Löschen',
   'Delete Entries' => 'Einträge löschen',
   'Description' => 'Beschreibung',
@@ -177,7 +171,7 @@
   'Event already exists' => 'Event existiert schon',
   'Events' => 'Events',
   'Export entries' => 'Einträge exportieren',
-  'Extracting archive failed!' => 'Extraktiond des Aechivs fehlgeschlagen!',
+  'Extracting archive failed!' => 'Entpacken des Archivs fehlgeschlagen!',
   'Failed loading collection' => 'Collection konnte nicht geladen werden',
   'Field Group' => 'Feld-Gruppe',
   'Field Info' => 'Feld-Informationen',
@@ -196,7 +190,7 @@
   'Fill in these required fields before saving:' => 'Diese Felder sind Pflichtfelder:',
   'Filter' => 'Filter',
   'Filter accounts...' => 'Accounts filtern...',
-  'Filter by name...' => 'Nach name filtern..',
+  'Filter by name...' => 'Nach Name filtern...',
   'Filter collections...' => 'Collections filtern...',
   'Filter forms...' => 'Formulare filtern...',
   'Filter is active' => 'Filter ist aktiv',
@@ -244,11 +238,11 @@
   'Link Collection Item' => 'Verknüpfe Collection-Element',
   'Link item' => 'Verknüpfe Element',
   'Load more...' => 'Mehr laden...',
-  'Localize' => 'Laokalisieren',
+  'Localize' => 'Lokalisieren',
   'Localized field' => 'Lokalisiertes Feld',
   'Login failed' => 'Login fehlgeschlagen',
   'Logout' => 'Logout',
-  'Map Field' => 'Karten-Field',
+  'Map Field' => 'Karten-Feld',
   'Master API-Key' => 'Master API-Schlüssel',
   'Match against:' => 'Match against:',
   'Maximum amount of items reached' => 'Maximale Menge an Elementen erreicht',
@@ -303,16 +297,16 @@
   'Remove' => 'Entfernen',
   'Remove Key' => 'Schlüssel entfernen',
   'Remove image' => 'Bild entfernen',
-  'Rename' => 'Umbennen',
+  'Rename' => 'Umbenennen',
   'Reorder' => 'Umsortieren',
   'Replace' => 'Ersetzen',
   'Required' => 'Pflichtfeld',
   'Required fields are not mapped:' => 'Pflichtfelder werden nicht zugewiesen:',
   'Reset' => 'Zurücksetzen',
-  'Reset Password' => 'Passwort Zurücksetzen',
+  'Reset Password' => 'Passwort zurücksetzen',
   'Restore to this version' => 'Diese Version wiederherstellen',
   'Restore value' => 'Inhalt wiederherstellen',
-  'Restoring failed.' => 'wiederherstellen fehlgeschlagen.',
+  'Restoring failed.' => 'Wiederherstellen fehlgeschlagen.',
   'Revisions' => 'Revisionen',
   'Rules' => 'Regeln',
   'Save' => 'Speichern',
@@ -359,7 +353,7 @@
   'Title' => 'Titel',
   'Toggle status' => 'Status umschalten',
   'Type' => 'Typ',
-  'Unzip' => 'Auspacken',
+  'Unzip' => 'Entpacken',
   'Update System' => 'System aktualisieren',
   'Update order' => 'Reihenfolge aktualisieren',
   'Updated' => 'Aktualisiert',
@@ -367,7 +361,7 @@
   'Url' => 'URL',
   'User' => 'Benutzer',
   'Username' => 'Benutzername',
-  'Username or Email' => 'Benutzername oder E-Mail-Adresse',
+  'Username or Email' => 'Benutzername oder E-Mailadresse',
   'Users' => 'Benutzer',
   'Version' => 'Version',
   'Video' => 'Video',
@@ -384,4 +378,4 @@
   'http://...' => 'http://...',
   'selected' => 'selected',
   'ws://...' => 'ws://...',
-);
+];
