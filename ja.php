@@ -133,7 +133,7 @@ return [
   'Create config file' => '設定ファイルを作成',
   'Create link to' => 'リンクを作成',
   'Create one' => '1件作成する',
-  'Created' => '作成しました',
+  'Created' => '作成日',
   'Custom Headers' => 'カスタムヘッダー',
   'Custom config file does not exist' => 'カスタム設定ファイルが見つかりません',
   'Custom config file is not writable' => 'カスタム設定ファイルに描き込みができません',
