@@ -363,7 +363,7 @@ return [
   'Unzip' => 'ZIPを展開',
   'Update System' => 'システムを更新',
   'Update order' => 'オーダーを更新',
-  'Updated' => '更新しました',
+  'Updated' => '更新日',
   'Updating System...' => 'システムを更新しています...',
   'Url' => 'URL',
   'User' => 'ユーザー',
