@@ -362,7 +362,7 @@ return [
   'Type' => 'タイプ',
   'Unzip' => 'ZIPを展開',
   'Update System' => 'システムを更新',
-  'Update order' => 'オーダーを更新',
+  'Update order' => '並び順を更新',
   'Updated' => '更新日',
   'Updating System...' => 'システムを更新しています...',
   'Url' => 'URL',
