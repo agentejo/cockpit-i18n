@@ -162,7 +162,7 @@ return [
   'Edit meta data' => 'メタデータを編集',
   'Email' => 'Eメール',
   'Enabled' => '有効化しました',
-  'Enter Image Url' => '画像のURLを入力してください',
+  'Enter Image Url' => '画像のURLを入力',
   'Entries' => 'エントリー',
   'Entries found.' => 'エントリーが見つかりました',
   'Entries removed' => 'エントリーを削除しました',
