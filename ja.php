@@ -161,7 +161,7 @@ return [
   'Edit asset' => 'アセットを編集',
   'Edit meta data' => 'メタデータを編集',
   'Email' => 'Eメール',
-  'Enabled' => '有効化しました',
+  'Enabled' => '有効化',
   'Enter Image Url' => '画像のURLを入力',
   'Entries' => 'エントリー',
   'Entries found.' => 'エントリーが見つかりました',
