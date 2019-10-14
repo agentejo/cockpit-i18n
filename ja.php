@@ -248,7 +248,7 @@ return [
   'Localized field' => 'ローカライズに失敗しました',
   'Login failed' => 'ログインに失敗しました',
   'Logout' => 'ログアウト',
-  'Map Field' => 'マップに失敗しました',
+  'Map Field' => '対応するフィールド',
   'Master API-Key' => 'マスターAPIキー',
   'Match against:' => '競合させる:',
   'Maximum amount of items reached' => 'アイテムの最大数に到達しました',
