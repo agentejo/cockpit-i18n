@@ -413,7 +413,6 @@
   'No file chosen' => 'Nebyl vybrán žádný soubor',
   'See all' => 'Zobrazit vše',
   'Add Tag...' => 'Přidat tag...',
-  'Add Column' => 'Přidat sloupec',
   'Api token' => 'API token',
   'Clone item' => 'Duplikovat položku',
   'Confirm removal?' => 'Opravdu odstranit?',
