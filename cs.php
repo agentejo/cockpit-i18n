@@ -62,7 +62,7 @@
   'Actions' => 'Akce',
   'Add Account' => 'Přdat účet',
   'Add Collection' => 'Přidat kolekci',
-  'Add Colum' => 'Přidat sloupec',
+  'Add Column' => 'Přidat sloupec',
   'Add Component' => 'Přidat komponent',
   'Add Entry' => 'Přidat záznam',
   'Add Form' => 'Přidat formulář',
