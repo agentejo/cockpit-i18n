@@ -1,7 +1,7 @@
 <?php return [
   '@meta' => [
     'language' => 'Português Brasileiro',
-    'author' => 'LGDAGOSTIM e Gabriel Valverde',
+    'author' => 'LGDAGOSTIM, Gabriel Valverde',
     'date' => [
       'shortdays' => [
         0 => 'Seg',
@@ -157,6 +157,7 @@
   'Edit asset' => 'Editar recurso',
   'Edit meta data' => 'Editar metadados',
   'Email' => 'E-mail',
+  'Empty Trash' => 'Esvaziar Lixeira',
   'Enabled' => 'Ativo',
   'Enter Image Url' => 'Insira a URL da Imagem',
   'Entries' => 'Entradas',
@@ -352,6 +353,8 @@
   'This is an empty folder' => 'Esta é uma pasta vazia',
   'Title' => 'Título',
   'Toggle status' => 'Alternar status',
+  'Trash' => 'Lixeira',
+  'Trash is empty' => 'A lixeira está vazia',
   'Type' => 'Tipo',
   'Unzip' => 'Extrair',
   'Update System' => 'Atualizar Sistema',
