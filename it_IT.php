@@ -146,7 +146,7 @@ return [
   'Custom keys' => 'Chiavi personalizzate',
   'Custom sortable entries' => 'Elementi ordinabili personalizzati',
   'DESC' => 'DESC',
-  'Dashboard' => 'Dashboard',
+  'Dashboard' => 'Cruscotto',
   'Data saved' => 'Dati salvati',
   'Default' => 'Predefinito',
   'Default sorting by' => 'Ordinamento predefinito per',
